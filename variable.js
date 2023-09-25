@@ -16,3 +16,9 @@ var star='aliya bhate';
 var serious=true;
 var isFullMark=false;
 var isSingle=true;
+// 1. variable name can not be any keywords
+// 2. variable name has to be in one work, no spac
+// 3. varibale name can not quotation
+// 4. variable name not starts with a number but ends with a number 
+// 5. variable name can not use dash, use under squre
+var userHomeAddress='rangpur';//camel case/senak case
